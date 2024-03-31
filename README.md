@@ -1,1 +1,1 @@
-# 05_search_str
+5. Search specified string in files
